@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BagarBilla
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning assembly
+- 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on open source web apps
 - 📫 How to reach me :- piyushpra33@gmail.com
 - 😄 Pronouns: he / him only
